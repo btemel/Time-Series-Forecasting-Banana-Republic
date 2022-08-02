@@ -6,7 +6,9 @@ We can conclude that best forecast for this model is:
 * municipality id: 1
 * worst forecast is for municipality id: 4
 
-I used ForecasterAutoreg for time series forecasting. And used gridsearch for hyperparameter tuning also used backtesting.
+I used ForecasterAutoreg for time series forecasting. And used gridsearch for hyperparameter tuning also used backtesting for cross validation.
 
-Alternative time series forecast models can also be tested for comparison. However I didn't cover them for simplicity. 
+Alternative time series forecast models can also be tested for comparison. However I didn't cover them yet for simplicity. 
 (LSTM, GAN, Prophet, ARIMA models)
+
+The link for skforest documentation: https://joaquinamatrodrigo.github.io/skforecast/0.4.3/index.html
