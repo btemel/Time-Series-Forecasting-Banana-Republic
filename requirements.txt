@@ -1,0 +1,5 @@
+catboost == 1.0.6
+skforecast == 0.4.3
+pandas == 1.3.5
+numpy == 1.21.6
+xgboost == 0.90
