@@ -2,6 +2,12 @@
 Time Series Forecasting (Banana Republic)
 
 
+To start, open up a terminal or a command prompt and navigate to the directory of your Python project. Once you are there, type the following command:  
+
+pip install -r requirements.txt
+
+
+
 We can conclude that best forecast for this model is:
 * municipality id: 1
 * worst forecast is for municipality id: 4
